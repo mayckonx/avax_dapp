@@ -1,0 +1,5 @@
+/node_modules
+/.idea
+*.tsbuildinfo
+.env
+.DS_Store
